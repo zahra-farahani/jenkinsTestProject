@@ -1,1 +1,1 @@
-Test Project to test jenkins pipeline (DEV branch)
+Test Project to test jenkins pipeline
